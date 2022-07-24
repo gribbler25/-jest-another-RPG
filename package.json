@@ -1,0 +1,19 @@
+{
+  "name": "-jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A sinple RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gribbler25/-jest-another-RPG.git"
+  },
+  "author": "gribbler25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gribbler25/-jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/gribbler25/-jest-another-RPG#readme"
+}
